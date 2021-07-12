@@ -1,0 +1,12 @@
+2021-07-11 20:24:12 INFO  Hook:38 - Log4j Configured
+2021-07-11 20:24:13 INFO  FlightsPage:23 - Constructor initialized
+2021-07-11 20:24:27 INFO  FlightsPage:66 - currentURL: https://www.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=754edad0-e2a7-11eb-bd11-5902aeb71c50&vid=
+2021-07-11 20:24:27 INFO  FlightsPage:67 - clicked on: Flights
+2021-07-11 20:24:28 INFO  FlightsPage:84 - clicked on: One way
+2021-07-11 20:24:28 INFO  FlightsPage:85 - currentURL: https://www.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=754edad0-e2a7-11eb-bd11-5902aeb71c50&vid=
+2021-07-11 20:24:28 INFO  FlightsPage:94 - in the try selectFlyingFrom_option 
+2021-07-11 20:24:29 INFO  FlightsPage:105 - in the finally selectFlyingFrom_option 
+2021-07-11 20:24:30 INFO  FlightsPage:132 - desiredDate submitted: 7/16/21
+2021-07-11 20:25:15 INFO  Hook:46 - After SCENARIO
+2021-07-11 20:25:17 TRACE WebSocket08FrameEncoder:130 - Encoding WebSocket Frame opCode=8 length=26
+2021-07-11 20:25:18 DEBUG PoolThreadCache:224 - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-3

@@ -1,0 +1,9 @@
+2021-07-11 18:46:24 INFO  Hook:47 - Log4j Configured
+2021-07-11 18:46:24 INFO  FlightsPage:22 - Constructor initialized
+2021-07-11 18:46:24 INFO  FlightsPage:48 - currentURL: https://www.skyscanner.com/
+2021-07-11 18:46:24 INFO  FlightsPage:49 - clicked on: Flights
+2021-07-11 18:46:35 INFO  FlightsPage:76 - in the try selectFlyingFrom_option 
+2021-07-11 18:47:06 INFO  FlightsPage:79 - in the catch selectFlyingFrom_option 
+2021-07-11 18:47:06 INFO  FlightsPage:87 - in the finally selectFlyingFrom_option 
+2021-07-11 18:47:38 TRACE WebSocket08FrameEncoder:130 - Encoding WebSocket Frame opCode=8 length=26
+2021-07-11 18:47:39 DEBUG PoolThreadCache:224 - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-3

@@ -1,0 +1,10 @@
+2021-07-11 18:59:01 INFO  Hook:38 - Log4j Configured
+2021-07-11 18:59:01 INFO  FlightsPage:22 - Constructor initialized
+2021-07-11 18:59:17 INFO  FlightsPage:48 - currentURL: https://www.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=94234600-e29b-11eb-8a6e-dfa85b3e5755&vid=
+2021-07-11 18:59:17 INFO  FlightsPage:49 - clicked on: Flights
+2021-07-11 18:59:18 INFO  FlightsPage:66 - clicked on: One way
+2021-07-11 18:59:18 INFO  FlightsPage:67 - currentURL: https://www.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=94234600-e29b-11eb-8a6e-dfa85b3e5755&vid=
+2021-07-11 18:59:18 INFO  FlightsPage:76 - in the try selectFlyingFrom_option 
+2021-07-11 18:59:19 INFO  FlightsPage:87 - in the finally selectFlyingFrom_option 
+2021-07-11 18:59:19 INFO  Hook:46 - After SCENARIO
+2021-07-11 18:59:21 TRACE WebSocket08FrameEncoder:130 - Encoding WebSocket Frame opCode=8 length=26

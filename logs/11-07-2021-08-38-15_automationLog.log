@@ -1,0 +1,11 @@
+2021-07-11 20:38:15 INFO  Hook:38 - Log4j Configured
+2021-07-11 20:38:15 INFO  FlightsPage:24 - Constructor initialized
+2021-07-11 20:38:15 INFO  FlightsPage:69 - currentURL: https://www.skyscanner.com/
+2021-07-11 20:38:15 INFO  FlightsPage:70 - clicked on: Flights
+2021-07-11 20:38:17 INFO  FlightsPage:87 - clicked on: One way
+2021-07-11 20:38:17 INFO  FlightsPage:88 - currentURL: https://www.skyscanner.com/
+2021-07-11 20:38:17 INFO  FlightsPage:97 - in the try selectFlyingFrom_option 
+2021-07-11 20:38:17 INFO  FlightsPage:108 - in the finally selectFlyingFrom_option 
+2021-07-11 20:38:18 INFO  FlightsPage:135 - desiredDate submitted: 7/16/21
+2021-07-11 20:39:04 INFO  Hook:46 - After SCENARIO
+2021-07-11 20:39:06 TRACE WebSocket08FrameEncoder:130 - Encoding WebSocket Frame opCode=8 length=26
